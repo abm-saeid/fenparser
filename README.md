@@ -63,10 +63,10 @@ This is the BNF grammar that describes the FEN notation:
 
 ```
 
-For more information about what all these thinngs mean, check out the [Forsyth-Edwards Notation page on the Chess programming wiki](http://chessprogramming.wikispaces.com/Forsyth-Edwards+Notation)
+For more information about what all these things mean, check out the [Forsyth-Edwards Notation page on the Chess programming wiki](https://www.chessprogramming.org/Forsyth-Edwards_Notation)
 
 
 # References
 
-- http://chessprogramming.wikispaces.com/Forsyth-Edwards+Notation
+- https://www.chessprogramming.org/Forsyth-Edwards_Notation
 - http://humanchimp.neocities.org/starting-position.html?8/5N2/4p2p/5p1k/1p4rP/1P2Q1P1/P4P1K/5q2%20w%20-%20-%2015%2044
